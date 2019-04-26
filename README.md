@@ -1,1 +1,16 @@
 # OwnScript
+CreateSymbolicLink.app
+Finderで選択したファイルやディレクトリのシンボリックリンクをデスクトップに作成する。
+
+CreateText.app
+現在Finderで表示しているディレクトリにUntitled.txtという空のテキストファイルを作成する。
+同名のファイルがすでにあった場合は何もしない。
+
+OpenTerminalHere4.app
+OpenTerminalHere3を改良した。
+ホームディレクトリのscriptlogsフォルダに、ターミナルのログを残すようにした。
+パスを誰でも使えるようにしていないので、現在(2019/04/26)僕の手元でしか動かないはず。
+
+TexEbb.app
+現在Finderで表示しているディレクトリのpngファイル全てについて、それぞれebbファイルを作成する。
+Texで使用するために作成したのでTexEbbという名前にした。
